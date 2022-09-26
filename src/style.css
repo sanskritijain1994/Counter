@@ -1,0 +1,12 @@
+
+.btn button{
+  border: white; 
+  color: black; 
+  padding: 20px 44px; 
+  cursor: pointer; 
+  border-radius: 10px;
+  font-size: 2em;
+}
+.bton{
+    background: white;
+}
